@@ -1,4 +1,4 @@
-# Project: Data Lake
+# Data Lake with Spark on AWS
 
 ## Introduction
 
